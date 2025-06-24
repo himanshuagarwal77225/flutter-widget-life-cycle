@@ -2,7 +2,7 @@
 _Combining Cheat Sheet + Real-World Code + Validation Checklists_
 
 ### 📌 Author: Himanshu Agarwal  
-👨‍💻 [Medium](https://himanshu-agarwal.medium.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hagarwal1) | 💻 [GitHub](https://github.com/hagarwal1)
+👨‍💻 [Medium](https://himanshu-agarwal.medium.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hagarwal1) | 💻 [GitHub](https://github.com/himanshuagarwal77225)
 
 ---
 
@@ -2327,5 +2327,5 @@ Made with ❤️ by **Himanshu Agarwal**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hagarwal1)  
 📖 [Medium Articles](https://himanshu-agarwal.medium.com)  
-💻 [GitHub Projects](https://github.com/hagarwal1)  
+💻 [GitHub Projects](https://github.com/himanshuagarwal77225)  
 📬 [Contact](mailto:himanshu.agrawal.77225@gmail.com)
