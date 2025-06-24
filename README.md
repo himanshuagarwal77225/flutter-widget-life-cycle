@@ -5,6 +5,41 @@ _Combining Cheat Sheet + Real-World Code + Validation Checklists_
 👨‍💻 [Medium](https://himanshu-agarwal.medium.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hagarwal1) | 💻 [GitHub](https://github.com/himanshuagarwal77225)
 
 ---
+## 📚 Table of Contents
+
+1. [Part 1: Lifecycle Cheat Sheet](#part-1-lifecycle-cheat-sheet)  
+    - [StatefulWidget Lifecycle Methods](#statefulwidget-lifecycle-methods)  
+    - [App Lifecycle States](#app-lifecycle-states)  
+    - [Route Lifecycle](#route-lifecycle)  
+    - [Common Lifecycle Patterns](#common-lifecycle-patterns)  
+    - [Lifecycle Flow Diagram](#lifecycle-flow-diagram)  
+    - [Industry-Specific Use Cases](#industry-specific-use-cases)  
+    - [Advanced Lifecycle Management](#advanced-lifecycle-management)  
+    - [Device-Specific Lifecycle Patterns](#device-specific-lifecycle-patterns)  
+    - [Error Handling and Recovery Patterns](#error-handling-and-recovery-patterns)  
+    - [Testing Lifecycle Methods](#testing-lifecycle-methods)  
+    - [Performance Monitoring](#performance-monitoring)  
+    - [Best Practices](#best-practices)  
+    - [Common Pitfalls and Solutions](#common-pitfalls-and-solutions)  
+    - [Quick Reference](#quick-reference)  
+    - [Real-Time Use Cases & Examples](#real-time-use-cases--examples)
+  
+2. [Part 2: Developer Lifecycle Checklist](#part-2-developer-lifecycle-checklist)  
+    - [Initialization Phase](#initialization-phase)  
+    - [Build Phase](#build-phase)  
+    - [Update Phase](#update-phase)  
+    - [Cleanup Phase](#cleanup-phase)  
+    - [App Lifecycle Management](#app-lifecycle-management)  
+    - [Navigation Lifecycle](#navigation-lifecycle)  
+    - [Error Prevention](#error-prevention)  
+    - [Performance Optimization](#performance-optimization)  
+    - [Testing Considerations](#testing-considerations)  
+    - [Monitoring & Analytics](#monitoring--analytics)  
+    - [Platform-Specific Considerations](#platform-specific-considerations)  
+    - [Development Tools](#development-tools)  
+    - [Quick Reference Commands](#quick-reference-commands)  
+    - [Final Validation](#final-validation)
+---
 
 ## 📘 Part 1: Lifecycle Cheat Sheet
 
